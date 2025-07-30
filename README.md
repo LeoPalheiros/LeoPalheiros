@@ -13,7 +13,7 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoPalheiros&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/LeoPalheiros/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoPalheiros&repo=efood.github.io&theme=dark)](https://github.com/LeoPalheiros/github-readme-stats)
 
 
 ### Linguagens utilizadas
