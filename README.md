@@ -2,10 +2,9 @@
 
 ## Meu nome é Leonardo
 
-#### Desenvolvedor Front-end
+**`Desenvolvedor Front-end`**
 
-###### Sobre o Pedro
-Desenvolvimento Front-end formado pela EBAC (Escola Britânica de Artes Criativas e Tecnologia). Possuo perfil criativo, proativo e adaptável, com forte interesse por inovação, boas práticas de codificação e design funcional. Atuo com atenção à performance, acessibilidade e usabilidade, sempre buscando entregar soluções elegantes e eficientes. 
+###### Desenvolvimento Front-end formado pela EBAC (Escola Britânica de Artes Criativas e Tecnologia). Possuo perfil criativo, proativo e adaptável, com forte interesse por inovação, boas práticas de codificação e design funcional. Atuo com atenção à performance, acessibilidade e usabilidade, sempre buscando entregar soluções elegantes e eficientes. 
 
 
 ### Detalhes
