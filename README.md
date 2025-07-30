@@ -13,12 +13,12 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoPalheiros&repo=efood.github.io&theme=dark)](https://github.com/LeoPalheiros/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoPalheiros&repo=efood.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoPalheiros&layout=compact)](https://github.com/LeoPalheiros/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoPalheiros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
