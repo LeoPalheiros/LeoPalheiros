@@ -16,6 +16,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoPalheiros&repo=efood&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoPalheiros&repo=eplay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoPalheiros&repo=clone_DisneyPlus&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoPalheiros&repo=Lista_de_contatos&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
