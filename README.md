@@ -55,12 +55,14 @@
 
 <table width="100%">
   <tr>
-    <td align="left">
+    <!-- Linguagens ocupa metade -->
+    <td width="50%" align="left">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoPalheiros&layout=compact" />
       </a>
     </td>
-    <td align="right">
+    <!-- Gif ocupa metade e vai pro canto direito -->
+    <td width="50%" align="right">
       <img src="https://i.pinimg.com/originals/3b/33/b9/3b33b96fa74811c3bdb0c81689662080.gif" height="150" />
     </td>
   </tr>
@@ -69,15 +71,16 @@
 ### Contatos  
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/leonardo-palheiros" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-palheiros">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="mailto:leonardopalheiros@hotmail.com" target="_blank">
+  <a href="mailto:leonardopalheiros@hotmail.com">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo" />
   </a>
-  <a href="https://www.instagram.com/leopalheiros07" target="_blank">
+  <a href="https://www.instagram.com/leopalheiros07">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 </div>
+
 
 
