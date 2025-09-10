@@ -53,9 +53,18 @@
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoPalheiros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/3b/33/b9/3b33b96fa74811c3bdb0c81689662080.gif"  />
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoPalheiros&layout=compact" />
+      </a>
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/3b/33/b9/3b33b96fa74811c3bdb0c81689662080.gif" height="150" />
+    </td>
+  </tr>
+</table>
 
 ### Contatos
 
