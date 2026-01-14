@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">Desenvolvedor Front-end Júnior</p>
+<p align="left">**Desenvolvedor Front-end Júnior**</p>
 
 ###
 
@@ -131,6 +131,14 @@
   </a>
 
 </div>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://i.pinimg.com/originals/3b/33/b9/3b33b96fa74811c3bdb0c81689662080.gif" height="150"/>
+    </td>
+  </tr>
+</table>
 
 ###
 
